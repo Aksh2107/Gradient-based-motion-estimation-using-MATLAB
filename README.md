@@ -3,3 +3,6 @@ Motion estimation is the process of determining motion vectors that describe the
 
 
 Gradient based motion estimation is more precisely called 'motion estimation based on an equation with boundary conditions' and is based on a partial differential equation supported the spatial and temporal image gradients related to that of movement puts.
+
+Reference 
+http://www.tara.tcd.ie/handle/2262/24560
